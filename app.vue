@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <nuxt-img src="/download.png" />
   </div>
 </template>
